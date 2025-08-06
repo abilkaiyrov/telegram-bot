@@ -1,0 +1,5 @@
+python-telegram-bot
+gspread
+google-auth
+google-auth-oauthlib
+google-api-python-client
